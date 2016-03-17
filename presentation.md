@@ -1,8 +1,6 @@
-##Empirics of the Solow model  #
- 
-## Yusuf Hassan Haji  ##
-
-### Tilburg University ###
+%Empirics of the Solow model 
+%Yusuf Hassan Haji 
+%Tilburg University
 
 
 Introduction
