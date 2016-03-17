@@ -1,12 +1,12 @@
 Name: Yusuf Hassan Haji   ANR:180541
-====================================
+
 
 Empirical equations for the Solow Model
 =================
 
 
  Introduction
-===========
+-------------------------------------------
 I attempt to explain long run economic growth by looking at:
 
 * capital accumulation
@@ -19,7 +19,7 @@ I attempt to explain long run economic growth by looking at:
 
 
 Motivation
-===========
+------------------------------------------------------------
 * How to incorporate technological progress in the Solow model
 * About policies to promote growth
 * About growth empirics:  confronting the theory with facts
@@ -32,7 +32,7 @@ Motivation
 
 
 Growth empirics: Balanced growth
-============================
+-----------------------------------------------------------------------
 * Solow model’s steady state equilibrium exhibits balanced growth
 * Many variables grow at the same rate
 * Solow model predicts Y/L and K/L grow at the same rate (g), so K/Y should be constant
@@ -49,7 +49,7 @@ See the figure below to see the steady state of capital:
 ----------------------------------------------------------------------------
 
 Growth empirics:  Convergence
-==========================
+-------------------------------------------------------------
 * Solow model predicts that, other things equal, “poor” countries (with lower Y/L  and K/L) should grow faster than “rich” ones
 * If true, then the income gap between rich & poor countries would shrink over time, causing living standards to “converge.”  
 * In real world, many poor countries do NOT grow faster than rich ones.  Does this mean the Solow model fails?  
@@ -58,7 +58,7 @@ Growth empirics:  Convergence
 -------------------------------------------------------------------------------------
 
 Growth empirics:  Convergence
-=================================
+--------------------------------------------------------------
 * Convergence in the Solow model is arrived at by taking a first order Taylor expansion of output around the steady state level gives : 
 
 $(d[lny(t)-lny^*])/dt=-λ[lny(t)-lny^*]$
@@ -70,7 +70,7 @@ $lny(t)= (1-e^{-λt} )  lny^*+ e^{-λt}  lny(0)$
 ---------------------------------------------------------------------------------------
 
 Growth empirics:  Convergence
-===================================
+---------------------------------------------
 * Equation (E.2) can also be derived as above by subtracting lny(t-T) from both sides. T is an arbitrary log in order to get income per effective worker at some initial year
 
 * Equation (E.1) can therefore become;
@@ -91,7 +91,7 @@ $lny(t)- lny(t-T)=(1-e^{-λt} )  lny^* - (1-e^{-λt}) lny(t-T)$
 ----------------------------------------------------------------------------------------------
 
 Growth empirics:  Derive the regression equation
-============================================
+--------------------------------------------------------------
 * The Solow model takes the rates of savings, population growth and technological progress as exogenous
 * A Cobb-Douglas production function is assumed , so production at time t is given by;
 
@@ -136,7 +136,7 @@ $ln(Y/L)^*=lnA(0) + gt-(∝+β)/(1-∝-β) ln(n+g+δ) +  ∝/(1-∝-β)  lns_K +
 
 ------------------------------------------------------------------------------------------------------
 Growth empirics:  Conclusion
-===================================
+-----------------------------------------------------
 * steady state growth rate of income per person depends solely on the exogenous rate of tech progress
 * Ways to increase the saving rate
     * increase public saving (reduce budget deficit)
