@@ -1,4 +1,5 @@
 Name: Yusuf Hassan Haji   ANR:180541
+
 Empirical equations for the Solow Model
 =======
 
