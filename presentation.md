@@ -1,3 +1,4 @@
+Name: Yusuf Hassan Haji   ANR:180541
 Empirical equations for the Solow Model
 =======
 
@@ -8,6 +9,8 @@ I attempt to explain long run economic growth by looking at:
 * capital accumulation
 * labor or population growth 
 * and increases in productivity (technological progress)
+* Check my assignment 2 for further explanation:
+[http://yusufhaji.github.io/assignment2/](http://yusufhaji.github.io/assignment2/ "Assignment 2 link")
 
 --------------------------------------------------
 
