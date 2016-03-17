@@ -1,12 +1,13 @@
-Name: Yusuf Hassan Haji   ANR:180541
+##Empirics of the Solow model  #
+ 
+## Yusuf Hassan Haji  ##
+
+### Tilburg University ###
 
 
-Empirical equations for the Solow Model
-=================
+Introduction
+------------------------------
 
-
-###Introduction
--------------------------------------------
 I attempt to explain long run economic growth by looking at:
 
 * capital accumulation
@@ -17,22 +18,19 @@ I attempt to explain long run economic growth by looking at:
 
 --------------------------------------------------
 
+Motivation
+-------------------------------------
 
-###Motivation
-------------------------------------------------------------
 * How to incorporate technological progress in the Solow model
 * About policies to promote growth
 * About growth empirics:  confronting the theory with facts
 * Two simple models in which the rate of technological progress is endogenous
-* * So, poor countries grow faster than richer countries and can be seen from the below figure:
-
+* So, poor countries grow faster than richer countries and can be seen from the below figure:
 ![Figure 1: Conditional convergence](http://www.puertorico-herald.org/images/Convergence/image1.gif)
-
 ------------------------------------------------------------
 
-
-###Growth empirics: Balanced growth
------------------------------------------------------------------------
+Growth empirics: Balanced growth
+---------------------------------------------------
 * Solow model’s steady state equilibrium exhibits balanced growth
 * Many variables grow at the same rate
 * Solow model predicts Y/L and K/L grow at the same rate (g), so K/Y should be constant
@@ -48,17 +46,18 @@ See the figure below to see the steady state of capital:
 
 ----------------------------------------------------------------------------
 
-###Growth empirics:  Convergence
--------------------------------------------------------------
+Growth empirics:  Convergence
+--------------------------------------------------------
+
 * Solow model predicts that, other things equal, “poor” countries (with lower Y/L  and K/L) should grow faster than “rich” ones
 * If true, then the income gap between rich & poor countries would shrink over time, causing living standards to “converge.”  
-* In real world, many poor countries do NOT grow faster than rich ones.  Does this mean the Solow model fails?  
-
-
+* In real world, many poor countries do not grow faster than rich ones.  Does this mean the Solow model fails?  
 -------------------------------------------------------------------------------------
 
-###Growth empirics:  Convergence
---------------------------------------------------------------
+
+Growth empirics:  Convergence
+---------------------------------------------------------------------------
+
 * Convergence in the Solow model is arrived at by taking a first order Taylor expansion of output around the steady state level gives : 
 
 $(d[lny(t)-lny^*])/dt=-λ[lny(t)-lny^*]$
@@ -69,8 +68,9 @@ $lny(t)= (1-e^{-λt} )  lny^*+ e^{-λt}  lny(0)$
 
 ---------------------------------------------------------------------------------------
 
-###Growth empirics:  Convergence
----------------------------------------------
+Growth empirics:  Convergence
+----------------------------------------------
+
 * Equation (E.2) can also be derived as above by subtracting lny(t-T) from both sides. T is an arbitrary log in order to get income per effective worker at some initial year
 
 * Equation (E.1) can therefore become:
@@ -85,13 +85,10 @@ $lny(t)- lny(t-T)=(1-e^{-λt} )  lny^* - (1-e^{-λt}) lny(t-T)$
 
 ![Figure 3](http://cruel.org/econthought/essays/growth/neoclass/image/solowtrap4.gif)
 
-
-
-
 ----------------------------------------------------------------------------------------------
 
-###Growth empirics:  Derive the regression equation
---------------------------------------------------------------
+Growth empirics:  Derive the regression equation
+-----------------------------------------------------------------
 * The Solow model takes the rates of savings, population growth and technological progress as exogenous
 * A Cobb-Douglas production function is assumed , so production at time t is given by:
 
@@ -135,8 +132,10 @@ $((Y(t))/(L(t)))^*=A(0).e^gt=A_0 e^gt  (((s_K^α s_H^β ))/(δ+n+g)^{1/(∝+β)}
 $ln(Y/L)^*=lnA(0) + gt-(∝+β)/(1-∝-β) ln(n+g+δ) +  ∝/(1-∝-β)  lns_K + β/(1-∝-β)  lns_H $
 
 ------------------------------------------------------------------------------------------------------
-###Growth empirics:  Conclusion
------------------------------------------------------
+
+
+Growth empirics:  Conclusion
+------------------------------------------
 * steady state growth rate of income per person depends solely on the exogenous rate of tech progress
 * Ways to increase the saving rate
     * increase public saving (reduce budget deficit)
