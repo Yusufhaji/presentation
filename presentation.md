@@ -5,7 +5,7 @@ Empirical equations for the Solow Model
 =================
 
 
- Introduction
+Introduction
 -------------------------------------------
 I attempt to explain long run economic growth by looking at:
 
@@ -73,7 +73,7 @@ Growth empirics:  Convergence
 ---------------------------------------------
 * Equation (E.2) can also be derived as above by subtracting lny(t-T) from both sides. T is an arbitrary log in order to get income per effective worker at some initial year
 
-* Equation (E.1) can therefore become;
+* Equation (E.1) can therefore become:
 
 $lny(t)- lny(t-T) = lny^* - (e^{-λt} )  lny^*- lny(t-T)+ e^(-λt)  lny(t-T)$
 
@@ -93,7 +93,7 @@ $lny(t)- lny(t-T)=(1-e^{-λt} )  lny^* - (1-e^{-λt}) lny(t-T)$
 Growth empirics:  Derive the regression equation
 --------------------------------------------------------------
 * The Solow model takes the rates of savings, population growth and technological progress as exogenous
-* A Cobb-Douglas production function is assumed , so production at time t is given by;
+* A Cobb-Douglas production function is assumed , so production at time t is given by:
 
 $Y(t) = K(t)^α (A(t)L(t))^{1-α}  ,0<α<1$
 
