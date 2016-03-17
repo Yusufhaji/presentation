@@ -9,12 +9,16 @@ I attempt to explain long run economic growth by looking at:
 * labor or population growth 
 * and increases in productivity (technological progress)
 
+--------------------------------------------------
+
 
 ### Motivation
 * How to incorporate technological progress in the Solow model
 * About policies to promote growth
 * About growth empirics:  confronting the theory with facts
 * Two simple models in which the rate of technological progress is endogenous
+
+------------------------------------------------------------
 
 
 ### Growth empirics: Balanced growth
@@ -23,12 +27,14 @@ I attempt to explain long run economic growth by looking at:
 * Solow model predicts Y/L and K/L grow at the same rate (g), so K/Y should be constant
 * Solow model predicts real wage grows at same rate as Y/L, while real rental price is constant.  
 
+----------------------------------------------------------------------------
 
 ###Growth empirics:  Convergence
 * Solow model predicts that, other things equal, “poor” countries (with lower Y/L  and K/L) should grow faster than “rich” ones
 * If true, then the income gap between rich & poor countries would shrink over time, causing living standards to “converge.”  
 * In real world, many poor countries do NOT grow faster than rich ones.  Does this mean the Solow model fails?  
 
+-------------------------------------------------------------------------------------
 
 ###Growth empirics:  Convergence
 * Convergence in the Solow model is arrived at by taking a first order Taylor expansion of output around the steady state level gives : 
@@ -38,6 +44,8 @@ $(d[lny(t)-lny^*])/dt=-λ[lny(t)-lny^*]$
 * The Solow model suggests a natural regression to study the rate of convergence;
 	
 $lny(t)= (1-e^{-λt} )  lny^*+ e^{-λt}  lny(0)$
+
+---------------------------------------------------------------------------------------
 
 ###Growth empirics:  Convergence
 * Equation (E.2) can also be derived as above by subtracting lny(t-T) from both sides. T is an arbitrary log in order to get income per effective worker at some initial year
@@ -50,6 +58,8 @@ $lny(t)- lny(t-T)=(1-e^{-λt} )  lny^* - (1-e^{-λt}) lny(t-T)$
 
 * We consider a time span of just one year which is technically feasible given that the underlying dataset provides annual data.
 * Thus the growth of income is a function of the determinants of ultimate steady state and the initial level of income
+
+----------------------------------------------------------------------------------------------
 
 ###Growth empirics:  Derive the regression equation
 * The Solow model takes the rates of savings, population growth and technological progress as exogenous
@@ -94,6 +104,8 @@ $((Y(t))/(L(t)))^*=A(0).e^gt=A_0 e^gt  (((s_K^α s_H^β ))/(δ+n+g)^{1/(∝+β)}
 * Taking logs on both sides of the equation gives the linear specification:
 $ln(Y/L)^*=lnA(0) + gt-(∝+β)/(1-∝-β) ln(n+g+δ) +  ∝/(1-∝-β)  lns_K + β/(1-∝-β)  lns_H $
 
+------------------------------------------------------------------------------------------------------
+
 ###Growth empirics:  Conclusion
 * steady state growth rate of income per person depends solely on the exogenous rate of tech progress
 * Ways to increase the saving rate
@@ -102,4 +114,6 @@ $ln(Y/L)^*=lnA(0) + gt-(∝+β)/(1-∝-β) ln(n+g+δ) +  ∝/(1-∝-β)  lns_K +
 * Empirical studies
     * Solow model explains balanced growth, conditional convergence
     * Cross-country variation in living standards is due to differences in cap. accumulation and in production efficiency
+
+------------------------------------------------------------------------------------------------
 
