@@ -2,7 +2,7 @@ Empirical equations for the Solow Model
 =======
 
 
-## Introduction
+### Introduction
 I attempt to explain long run economic growth by looking at:
 
 * capital accumulation
@@ -17,15 +17,26 @@ I attempt to explain long run economic growth by looking at:
 * About policies to promote growth
 * About growth empirics:  confronting the theory with facts
 * Two simple models in which the rate of technological progress is endogenous
+* * So, poor countries grow faster than richer countries and can be seen from the below figure:
+
+![Figure 1: Conditional convergence](http://www.puertorico-herald.org/images/Convergence/image1.gif)
 
 ------------------------------------------------------------
 
 
-### Growth empirics: Balanced growth
+### Growth empirics: Balanced growth###
 * Solow model’s steady state equilibrium exhibits balanced growth
 * Many variables grow at the same rate
 * Solow model predicts Y/L and K/L grow at the same rate (g), so K/Y should be constant
 * Solow model predicts real wage grows at same rate as Y/L, while real rental price is constant.  
+* And so the steady state capital per effective worker is : 
+
+$k^*=(s/(δ+n+g))^{1/(1-∝)}$
+
+See the figure below to see the steady state of capital:
+
+![Figue 2](http://cruel.org/econthought/essays/growth/neoclass/image/solowconv1.gif)
+
 
 ----------------------------------------------------------------------------
 
@@ -33,6 +44,7 @@ I attempt to explain long run economic growth by looking at:
 * Solow model predicts that, other things equal, “poor” countries (with lower Y/L  and K/L) should grow faster than “rich” ones
 * If true, then the income gap between rich & poor countries would shrink over time, causing living standards to “converge.”  
 * In real world, many poor countries do NOT grow faster than rich ones.  Does this mean the Solow model fails?  
+
 
 -------------------------------------------------------------------------------------
 
@@ -58,6 +70,12 @@ $lny(t)- lny(t-T)=(1-e^{-λt} )  lny^* - (1-e^{-λt}) lny(t-T)$
 
 * We consider a time span of just one year which is technically feasible given that the underlying dataset provides annual data.
 * Thus the growth of income is a function of the determinants of ultimate steady state and the initial level of income
+* I present the Solow model in a graphical form and study how it explains how a country can be trapped when it cannot converge and this is the case in many African countries. See the figure below
+
+![Figure 3](http://cruel.org/econthought/essays/growth/neoclass/image/solowtrap4.gif)
+
+
+
 
 ----------------------------------------------------------------------------------------------
 
@@ -116,4 +134,6 @@ $ln(Y/L)^*=lnA(0) + gt-(∝+β)/(1-∝-β) ln(n+g+δ) +  ∝/(1-∝-β)  lns_K +
     * Cross-country variation in living standards is due to differences in cap. accumulation and in production efficiency
 
 ------------------------------------------------------------------------------------------------
+
+
 
