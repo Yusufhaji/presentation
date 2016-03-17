@@ -14,6 +14,7 @@ I attempt to explain long run economic growth by looking at:
 * labor or population growth 
 * and increases in productivity (technological progress)
 * Check my assignment 2 for further explanation:
+
 [http://yusufhaji.github.io/assignment2/](http://yusufhaji.github.io/assignment2/ "Assignment 2 link")
 
 --------------------------------------------------
@@ -26,7 +27,9 @@ Motivation
 * About growth empirics:  confronting the theory with facts
 * Two simple models in which the rate of technological progress is endogenous
 * So, poor countries grow faster than richer countries and can be seen from the below figure:
+* 
 ![Figure 1: Conditional convergence](http://www.puertorico-herald.org/images/Convergence/image1.gif)
+
 ------------------------------------------------------------
 
 Growth empirics: Balanced growth
@@ -51,7 +54,8 @@ Growth empirics:  Convergence
 
 * Solow model predicts that, other things equal, “poor” countries (with lower Y/L  and K/L) should grow faster than “rich” ones
 * If true, then the income gap between rich & poor countries would shrink over time, causing living standards to “converge.”  
-* In real world, many poor countries do not grow faster than rich ones.  Does this mean the Solow model fails?  
+* In real world, many poor countries do not grow faster than rich ones
+* Does this mean the Solow model fails?  
 -------------------------------------------------------------------------------------
 
 
@@ -144,7 +148,7 @@ Growth empirics:  Conclusion
     * Solow model explains balanced growth, conditional convergence
     * Cross-country variation in living standards is due to differences in cap. accumulation and in production efficiency
 
-------------------------------------------------------------------------------------------------
+------------------------------------------------------------------
 
 
 
