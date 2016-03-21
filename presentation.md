@@ -64,7 +64,7 @@ Convergence (3)
 * Equation (E.2) can also be derived as above by subtracting lny(t-T) from both sides. T is an arbitrary log in order to get income per effective worker at some initial year
 
 * Equation (E.1) can therefore become:
-$lny(t)- lny(t-T) = lny^* - (e^{-λt} )  lny^*- lny(t-T)+ e^(-λt)  lny(t-T)$
+$lny(t)- lny(t-T) = lny^* - (e^{-λt} )  lny^*- lny(t-T)+ e^{-λt}  lny(t-T)$
 $lny(t)- lny(t-T)=(1-e^{-λt} )  lny^* - (1-e^{-λt}) lny(t-T)$
 
 ------------------------------------
@@ -145,9 +145,9 @@ $ln(Y/L)^{*}=lnA(0) + gt-{(∝+β)/(1-∝-β)} ln(n+g+δ) +  {∝/(1-∝-β)} ln
 ------------------------------------------------------------------------------------------------------
 
 
-Conclusion
+Summary
 ========================
-Conclusions
+Conclusion
 ------------------------------------------
 * steady state growth rate of income per person depends solely on the exogenous rate of tech progress
 * Ways to increase the saving rate
